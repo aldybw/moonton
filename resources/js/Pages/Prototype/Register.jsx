@@ -1,4 +1,3 @@
-import React from "react";
 import Label from "@/Components/Label";
 import Input from "@/Components/Input";
 import Button from "@/Components/Button";

@@ -1,4 +1,3 @@
-import React from "react";
 import Flickity from "react-flickity-component";
 import { Head } from "@inertiajs/inertia-react";
 import Authenticated from "@/Layouts/Authenticated/Index";

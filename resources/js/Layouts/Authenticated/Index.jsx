@@ -1,4 +1,3 @@
-import React from "react";
 import Sidebar from "@/Layouts/Authenticated/Sidebar";
 import Topbar from "@/Layouts/Authenticated/Topbar";
 
