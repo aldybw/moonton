@@ -21,8 +21,10 @@ module.exports = {
                 "form-bg": "#212121",
             },
             screens: {
-                laptopLg: "1160px",
-                laptopXl: "1360px",
+                laptopLg: "1024px",
+                laptopXl: "1280px",
+                // laptopLg: "1160px",
+                // laptopXl: "1360px",
             },
         },
     },
