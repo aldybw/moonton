@@ -30,7 +30,7 @@ export default function SubscriptionDetail({
                             {name}
                         </div>
                         <div class="text-black text-sm mb-2">
-                            {remainingActiveDays} of {activeDays} hari
+                            {remainingDays} of {activeDays} hari
                         </div>
                         <div class="rounded-full w-full h-[6px] bg-[#f1f1f1]">
                             <div class="rounded-full h-full w-2/12 bg-alerange"></div>
@@ -48,7 +48,7 @@ export default function SubscriptionDetail({
                             {name}
                         </div>
                         <div className="text-white text-sm mb-2">
-                            {remainingActiveDays} of {activeDays} hari
+                            {remainingDays} of {activeDays} hari
                         </div>
                         <div className="rounded-full w-full h-[6px] bg-[#333333]">
                             <div
