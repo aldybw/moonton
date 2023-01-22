@@ -15,7 +15,7 @@ export default function Register() {
                         alt=""
                     />
                 </div>
-                <div className="py-24 flex laptopLg:ml-[680px] laptopXl:ml-[870px]">
+                <div className="py-24 flex laptopLg:ml-[680px] laptopXl:ml-[810px]">
                     <div>
                         <img src="/images/moonton-white.svg" alt="" />
                         <div className="my-[70px]">
